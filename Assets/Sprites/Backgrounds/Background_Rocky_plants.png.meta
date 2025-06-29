@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 46a903fce7d0b4347822191b5dd8134e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6682049283106103553
+    second: Background_Rocky_plants_0
+  - first:
+      213: 5190157029425713845
+    second: Background_Rocky_plants_1
+  - first:
+      213: 6144239226496082637
+    second: Background_Rocky_plants_2
+  - first:
+      213: -3075306415911357548
+    second: Background_Rocky_plants_3
+  - first:
+      213: -1858325001353415567
+    second: Background_Rocky_plants_4
+  - first:
+      213: -4271357882013393229
+    second: Background_Rocky_plants_5
+  - first:
+      213: 5230934877010730560
+    second: Background_Rocky_plants_6
+  - first:
+      213: -1823911075702186481
+    second: Background_Rocky_plants_7
+  - first:
+      213: -184979304077584083
+    second: Background_Rocky_plants_8
+  - first:
+      213: 3220050499093539115
+    second: Background_Rocky_plants_9
+  - first:
+      213: 1999521344334776081
+    second: Background_Rocky_plants_10
+  - first:
+      213: 4533066008090650452
+    second: Background_Rocky_plants_11
+  - first:
+      213: -9202940222340079627
+    second: Background_Rocky_plants_12
+  - first:
+      213: 3502273914698308524
+    second: Background_Rocky_plants_13
+  - first:
+      213: 7406273847841337971
+    second: Background_Rocky_plants_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_Rocky_plants_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 610
+        width: 179
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe9ecc74979443a0800000000000000
+      internalID: -6682049283106103553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_1
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 658
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b29a63d154270840800000000000000
+      internalID: 5190157029425713845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_2
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 573
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e15ed509b44550800000000000000
+      internalID: 6144239226496082637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_3
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 495
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493bf10cb115255d0800000000000000
+      internalID: -3075306415911357548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 180
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1743a11d147e536e0800000000000000
+      internalID: -1858325001353415567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_5
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 92
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bed60e03a619b4c0800000000000000
+      internalID: -4271357882013393229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 30
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e1d635e83089840800000000000000
+      internalID: 5230934877010730560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eded64a8a20b6e0800000000000000
+      internalID: -1823911075702186481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 65
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2918a19d42de6df0800000000000000
+      internalID: -184979304077584083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 29
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b292a4d4edaefac20800000000000000
+      internalID: 3220050499093539115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 43
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c2e9911abfbb10800000000000000
+      internalID: 1999521344334776081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 78
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45724a3648fa8ee30800000000000000
+      internalID: 4533066008090650452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd34680a6984080800000000000000
+      internalID: -9202940222340079627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_13
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab95bfc1939a9030800000000000000
+      internalID: 3502273914698308524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_Rocky_plants_14
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 42
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37239d113de58c660800000000000000
+      internalID: 7406273847841337971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Background_Rocky_plants_0: -6682049283106103553
+      Background_Rocky_plants_1: 5190157029425713845
+      Background_Rocky_plants_10: 1999521344334776081
+      Background_Rocky_plants_11: 4533066008090650452
+      Background_Rocky_plants_12: -9202940222340079627
+      Background_Rocky_plants_13: 3502273914698308524
+      Background_Rocky_plants_14: 7406273847841337971
+      Background_Rocky_plants_2: 6144239226496082637
+      Background_Rocky_plants_3: -3075306415911357548
+      Background_Rocky_plants_4: -1858325001353415567
+      Background_Rocky_plants_5: -4271357882013393229
+      Background_Rocky_plants_6: 5230934877010730560
+      Background_Rocky_plants_7: -1823911075702186481
+      Background_Rocky_plants_8: -184979304077584083
+      Background_Rocky_plants_9: 3220050499093539115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
