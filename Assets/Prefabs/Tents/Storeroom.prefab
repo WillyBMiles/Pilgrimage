@@ -344,7 +344,7 @@ MonoBehaviour:
   beingPlaced: 1
   isFirstTent: 0
   Name: Storeroom
-  Description: For each adjacent <tents>, spend 2 faith and double its adjacency
+  Description: For each adjacent <tents>, spend 2 <faith> and double its adjacency
     bonus.
   god: 2
   shapeImge: {fileID: 3436119789653669040, guid: 7cf621cb095f3574494173c6527871ea, type: 3}

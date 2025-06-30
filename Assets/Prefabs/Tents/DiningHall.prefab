@@ -234,8 +234,8 @@ MonoBehaviour:
       Data: 
   beingPlaced: 1
   isFirstTent: 0
-  Name: Storeroom
-  Description: If adjacent <tents> have a Jasara follower, a Uborys follower, and
+  Name: Dining Hall
+  Description: If adjacent <tents> have a Jasara follower, an Uborys follower, and
     a Xiraeth follower, +20 <food>.
   god: 0
   shapeImge: {fileID: 1532440346177022758, guid: 34ef0dec850bc6746be43ff1cc1248dc, type: 3}

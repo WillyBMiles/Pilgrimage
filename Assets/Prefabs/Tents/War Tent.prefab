@@ -300,7 +300,7 @@ MonoBehaviour:
   beingPlaced: 1
   isFirstTent: 0
   Name: War Tent
-  Description: If exactly 1 adjacent <tents>. Spend 20 faith, remove adjacent <tents>,
+  Description: If exactly 1 adjacent <tents>. Spend 20 <faith>, remove adjacent <tents>,
     attract 2 new <tents>. Cannot remove chief tent.
   god: 2
   shapeImge: {fileID: 3685002520340290964, guid: ec3ed7e327d03474d8e4744af48bab46, type: 3}
